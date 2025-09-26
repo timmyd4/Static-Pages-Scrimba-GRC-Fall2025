@@ -90,6 +90,10 @@ import "./Challenges/Ch12.jsx";
 
 import "./Challenges/Ch13.jsx";
 
+import "./Challenges/Ch14/Ch14a.jsx";
+
+import "./Challenges/Ch15/Ch15a.jsx";
+
 
 
 
