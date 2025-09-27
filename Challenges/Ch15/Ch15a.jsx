@@ -1,4 +1,5 @@
-import { createRoot } from "react-dom/client"
+// import { createRoot } from "react-dom/client"
+import logo from "../react-logo.png";
 import MainContent from "./Ch15b"
 import Footer from "./Ch15c"
 import Header from "./Ch15d"
@@ -10,7 +11,7 @@ const root = createRoot(document.getElementById("root"))
  */
 
 
-function Page() {
+export default function Page() {
     return (
         <>
             <Header />
@@ -20,6 +21,6 @@ function Page() {
     )
 }
 
-root.render(
-    <Page />
-)
+// root.render(
+//     <Page />
+// )

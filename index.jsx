@@ -92,9 +92,13 @@ import "./Challenges/Ch13.jsx";
 
 import "./Challenges/Ch14/Ch14a.jsx";
 
-import "./Challenges/Ch15/Ch15a.jsx";
+import Ch15 from "./Challenges/Ch15/Ch15a.jsx";
 
+import {createRoot} from "react-dom/client";
 
+const root = createRoot(document.querySelector("#root"));
+
+root.render(<Ch15/>)
 
 
 
