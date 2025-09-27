@@ -1,5 +1,5 @@
 // import { createRoot } from "react-dom/client"
-import logo from "../react-logo.png";
+
 import MainContent from "./Ch15b"
 import Footer from "./Ch15c"
 import Header from "./Ch15d"
