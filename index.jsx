@@ -64,41 +64,43 @@
 // */
 
 
-import "./Challenges/Ch1.jsx";
+// import "./Challenges/Ch1.jsx";
 
-import "./Challenges/Ch2.jsx";
+// import "./Challenges/Ch2.jsx";
 
-import "./Challenges/Ch3.jsx";
+// import "./Challenges/Ch3.jsx";
 
-import "./Challenges/Ch4.jsx";
+// import "./Challenges/Ch4.jsx";
 
-import "./Challenges/Ch5.jsx";
+// import "./Challenges/Ch5.jsx";
 
-import "./Challenges/Ch6.jsx";
+// import "./Challenges/Ch6.jsx";
 
-import "./Challenges/Ch7.jsx";
+// import "./Challenges/Ch7.jsx";
 
-import "./Challenges/Ch8.jsx";
+// import "./Challenges/Ch8.jsx";
 
-import "./Challenges/Ch9.jsx";
+// import "./Challenges/Ch9.jsx";
 
-import "./Challenges/Ch10.jsx";
+// import "./Challenges/Ch10.jsx";
 
-import "./Challenges/Ch11.jsx";
+// import "./Challenges/Ch11.jsx";
 
-import "./Challenges/Ch12.jsx";
+// import "./Challenges/Ch12.jsx";
 
-import "./Challenges/Ch13.jsx";
+// import "./Challenges/Ch13.jsx";
 
-import "./Challenges/Ch14/Ch14a.jsx";
+// import "./Challenges/Ch14/Ch14a.jsx";
 
-import Ch15 from "./Challenges/Ch15/Ch15a.jsx";
+// import "./Challenges/Ch15/Ch15a.jsx";
+
+import App from "./Challenges/Ch16/App.jsx";
 
 import {createRoot} from "react-dom/client";
 
 const root = createRoot(document.querySelector("#root"));
 
-root.render(<Ch15/>)
+root.render(<App/>)
 
 
 

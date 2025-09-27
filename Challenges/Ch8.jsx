@@ -23,7 +23,7 @@ root.render(<Page/>);
 function Page() {
     return (
         <header>
-            <img src="react-logo.png" width={"40px"} alt="React Logo"/>
+            <img src="/react-logo.png" width={"40px"} alt="React Logo"/>
             <h1>Reasons Im Excited for React</h1>
             <ol>
                 <li>React is a popular library, so I will be able to

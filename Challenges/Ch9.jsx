@@ -36,7 +36,7 @@ function Page() {
 function Header()
 {
     return(
-    <header>
-                <img src="react-logo.png" width="40px" alt="React logo" />
-    </header>);
+        <header>
+            <img src="/react-logo.png" width="40px" alt="React logo" />
+        </header>);
 }

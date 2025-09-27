@@ -13,7 +13,7 @@ const root = createRoot(document.getElementById("root"))
 function Header() {
     return (
         <header>
-            <img src="react-logo.png" width="40px" alt="React logo" />
+            <img src="/react-logo.png" width="40px" alt="React logo" />
             <nav>
                 <ul>
                   <li>Pricing</li>

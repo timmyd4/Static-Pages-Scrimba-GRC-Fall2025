@@ -11,7 +11,7 @@ const root = createRoot(document.getElementById("root"))
 function Header() {
     return (
         <header className="header">
-            <img src="react-logo.png" className="nav-logo" alt="React logo" width={"40px"} />
+            <img src="/react-logo.png" className="nav-logo" alt="React logo" width={"40px"} />
             <nav>
                 <ul className="nav-list">
                     <li className="nav-list-item">Pricing</li>
